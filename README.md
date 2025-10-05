@@ -150,17 +150,17 @@ segment_profile['Revenue_Share'] = (
 ### Boxplot — Monetary by Segment
 Shows distribution of customer spending in each segment.
 
-![Boxplot](output.png)
+![Boxplot](graphs/output.png)
 
 ### Pie Chart — Revenue Share by Segment
 Displays percentage contribution of each customer group to total revenue.
 
-![Pie Chart](pie.png)
+![Pie Chart](graphs/pie.png)
 
 ### Bar Chart — Total Revenue by Segment
 Highlights absolute revenue amounts per segment.
 
-![Bar Chart](bar.png)
+![Bar Chart](graphs/bar.png)
 
 ---
 
