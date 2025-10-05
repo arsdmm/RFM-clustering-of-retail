@@ -196,7 +196,7 @@ Through this project, I practiced:
 ## Author
 
 **Dmytro Litvinov**  
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/dmytro-litvinov-2b319b235)
+LinkedIn: [Dmytro Litvinov](https://www.linkedin.com/in/dmytro-litvinov-2b319b235)
 
 ---
 
