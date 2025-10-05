@@ -26,7 +26,7 @@ These insights help businesses focus marketing efforts and improve customer rete
 ### Installation
 ```bash
 git clone https://github.com/arsdmm/RFM-clustering-of-retail.git
-cd 
+cd RFM-clustering-of-retail.git
 pip install -r requirements.txt
 jupyter notebook
 ```
