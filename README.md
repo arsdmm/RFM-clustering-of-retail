@@ -160,7 +160,7 @@ Displays percentage contribution of each customer group to total revenue.
 ### Bar Chart — Total Revenue by Segment
 Highlights absolute revenue amounts per segment.
 
-![Bar Chart](graphs/bar.png)
+![Bar Chart](graphs/bar_revenue.png)
 
 ---
 
