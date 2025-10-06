@@ -184,15 +184,6 @@ Through this project, I practiced:
 
 ---
 
-## 10. Next Steps
-
-- Automate segmentation refresh monthly
-- Add dashboard visualization in Power BI or Tableau
-- Experiment with KMeans clustering for deeper segmentation
-- Extend model to predict customer lifetime value (CLV)
-
----
-
 ## Author
 
 **Dmytro Litvinov**  
