@@ -20,7 +20,7 @@ These insights help businesses focus marketing efforts and improve customer rete
 ## 2. Project Setup
 
 ### Requirements
-- Python 3.x
+- Python 3.x.
 - Jupyter Notebook
 
 ### Installation
