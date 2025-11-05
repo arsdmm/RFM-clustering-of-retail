@@ -166,10 +166,10 @@ Highlights absolute revenue amounts per segment.
 
 ## 8. Key Insights
 
-- Champions and VIPs spend the most per order but make up a small share of customers.
-- General Customers and At Risk segments drive the majority of total revenue.
-- New Customers have potential for long-term growth if retention efforts are applied early.
-- Hibernating customers can be reactivated through re-engagement campaigns.
+- Champions and VIPs spend the most per order but make up a small share of customers
+- General Customers and At Risk segments drive the majority of total revenue
+- New Customers have potential for long-term growth if retention efforts are applied early
+- Hibernating customers can be reactivated through re-engagement campaigns
 
 ---
 
